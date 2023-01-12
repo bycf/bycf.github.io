@@ -2,13 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bycf.github.io/</id>
     <title>陈伯睿</title>
-    <updated>2023-01-12T11:53:47.827Z</updated>
+    <updated>2023-01-12T12:19:15.342Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://bycf.github.io/"/>
     <link rel="self" href="https://bycf.github.io/atom.xml"/>
     <logo>https://bycf.github.io/images/avatar.png</logo>
     <icon>https://bycf.github.io/favicon.ico</icon>
     <rights>All rights reserved 2023, 陈伯睿</rights>
+    <entry>
+        <title type="html"><![CDATA[CBR备忘录]]></title>
+        <id>https://bycf.github.io/cbr-bei-wang-lu/</id>
+        <link href="https://bycf.github.io/cbr-bei-wang-lu/">
+        </link>
+        <updated>2023-01-12T11:55:26.000Z</updated>
+        <content type="html"><![CDATA[<p>大家好</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CBR工具箱]]></title>
+        <id>https://bycf.github.io/cbr-gong-ju-xiang/</id>
+        <link href="https://bycf.github.io/cbr-gong-ju-xiang/">
+        </link>
+        <updated>2023-01-12T11:55:14.000Z</updated>
+        <content type="html"><![CDATA[<p>大家好</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CBR浏览器]]></title>
+        <id>https://bycf.github.io/cbr-liu-lan-qi/</id>
+        <link href="https://bycf.github.io/cbr-liu-lan-qi/">
+        </link>
+        <updated>2023-01-12T11:55:03.000Z</updated>
+        <content type="html"><![CDATA[<p>大家好</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新版PU插件]]></title>
+        <id>https://bycf.github.io/xin-ban-pu-cha-jian/</id>
+        <link href="https://bycf.github.io/xin-ban-pu-cha-jian/">
+        </link>
+        <updated>2023-01-12T11:54:28.000Z</updated>
+        <content type="html"><![CDATA[<p>大家好</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[文石Nova Air C 体验报告]]></title>
         <id>https://bycf.github.io/wen-shi-nova-air-c-ti-yan-bao-gao/</id>
